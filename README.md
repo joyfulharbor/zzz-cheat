@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-<h3 align="center">simple-hsr-cheat</h3>
+<h3 align="center">simple-zzz-cheat</h3>
 <p align="center">
 A simple zzz cheat compilation repository.
 
@@ -21,50 +21,27 @@ This is an instruction on how to set up this program locally.
 
 1. Run the file Launcher.exe.
 
-2. Then open the location of the Honkai Star Rail folder and select the exe file
+2. Then open the location of the Zenless Zone Zero folder and select the exe file
 
 3. The game will automatically open.
 
 4. Wait for the loading.
 
-5. Open the menu by pressing Insert
+5. Open the menu by pressing Insert / FN+del
 
 6. Done!
 
    
- ## Usage
-Features
-Player
+### OPEN MENU
+CLICK INSERT OR FN+INSERT ON LAPTOP
 
-    Noclip
-    Battle
-    Battle Speed`
-
-
-World
-
-    Cutscene Skip
-    Chest Teleport
-    Quest Teleport
-    Auto-Talk
-    Disable Talk Delay
-    Skip Scenes
-    Dump Enemies
-
-
-Visuals
-
-    `Esp
-    Fov Changer
-
-
-
-Misc
-
-    FPS Indicator
-    FPS Unlocker
-    Load Config
-    Save Config
-
-
+ Player->Noclip
+ Player->Godmode
+ Player->Hit multiplier
+ World->Mob vacuum
+ World->Dump enemies
+ World->Kill aura
+ Visuals->Fov changer
+ Visuals->Hide UI
+ Visuals->UID changer
 
